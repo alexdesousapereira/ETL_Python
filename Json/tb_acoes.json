@@ -1,0 +1,466 @@
+[
+  {
+    "id_acao": 1,
+    "nome_acao": "Assistência Pré-escolar aos Dependentes dos Servidores e Empregados"
+  },
+  {
+    "id_acao": 2,
+    "nome_acao": "Assistência Médica e Odontológica aos Servidores, Empregados e seus Dependentes"
+  },
+  {
+    "id_acao": 3,
+    "nome_acao": "Auxílio Transporte aos Servidores e Empregados"
+  },
+  {
+    "id_acao": 4,
+    "nome_acao": "Auxílio Alimentação aos Servidores e Empregados"
+  },
+  {
+    "id_acao": 5,
+    "nome_acao": "Desenvolvimento de Satélites"
+  },
+  {
+    "id_acao": 6,
+    "nome_acao": "Desenvolvimento de Veículos Lançadores de Satélites"
+  },
+  {
+    "id_acao": 7,
+    "nome_acao": "Desenvolvimento de Foguetes de Sondagem"
+  },
+  {
+    "id_acao": 8,
+    "nome_acao": "Pesquisa e Desenvolvimento em Ciências e Tecnologias Espaciais"
+  },
+  {
+    "id_acao": 9,
+    "nome_acao": "Capacitação de Recursos Humanos para a Área Espacial"
+  },
+  {
+    "id_acao": 10,
+    "nome_acao": "Regulamentações, Licenças e Certificações Espaciais"
+  },
+  {
+    "id_acao": 11,
+    "nome_acao": "Manutenção e Atualização da Infra-estrutura Espacial"
+  },
+  {
+    "id_acao": 12,
+    "nome_acao": "Manutenção de Serviços Administrativos"
+  },
+  {
+    "id_acao": 13,
+    "nome_acao": "Manutenção de Serviços de Transportes"
+  },
+  {
+    "id_acao": 14,
+    "nome_acao": "Manutenção e Conservação de Bens Imóveis"
+  },
+  {
+    "id_acao": 15,
+    "nome_acao": "Ações de Informática"
+  },
+  {
+    "id_acao": 16,
+    "nome_acao": "Remuneração de Pessoal Ativo da União e Encargos Sociais"
+  },
+  {
+    "id_acao": 17,
+    "nome_acao": "Comunicação de Governo"
+  },
+  {
+    "id_acao": 18,
+    "nome_acao": "Pagamento de Pensões a Servidores Civis"
+  },
+  {
+    "id_acao": 19,
+    "nome_acao": "Desenvolvimento de Satélites de Coleta de Dados e Sensoriamento Remoto"
+  },
+  {
+    "id_acao": 20,
+    "nome_acao": "Manutenção da Infra-Estrutura de Apoio Às Atividades Espaciais"
+  },
+  {
+    "id_acao": 21,
+    "nome_acao": "Implantação de Infra-Estrutura Necessária ao Centro de Lançamento de Alcântara para a Prestação de Serviços de Lançamento"
+  },
+  {
+    "id_acao": 22,
+    "nome_acao": "Experimentos em Microgravidade"
+  },
+  {
+    "id_acao": 23,
+    "nome_acao": "Pagamento de Aposentadorias e Pensões - Servidores Civis"
+  },
+  {
+    "id_acao": 24,
+    "nome_acao": "Formação de Astronautas"
+  },
+  {
+    "id_acao": 25,
+    "nome_acao": "Contribuição a International Astronautical Federation - IAF"
+  },
+  {
+    "id_acao": 26,
+    "nome_acao": "Apoio à Comercialização de Bens e Serviços no Setor Espacial"
+  },
+  {
+    "id_acao": 27,
+    "nome_acao": "Administração da Unidade"
+  },
+  {
+    "id_acao": 28,
+    "nome_acao": "Certificação de Sistemas e Produtos Espaciais"
+  },
+  {
+    "id_acao": 29,
+    "nome_acao": "Apoio a Projetos de Pesquisa e Desenvolvimento no Setor Espacial"
+  },
+  {
+    "id_acao": 30,
+    "nome_acao": "Reconstrução da Torre Móvel de Integração do Sítio do Veículo Lançador de Satélite"
+  },
+  {
+    "id_acao": 31,
+    "nome_acao": "Auxílio-Transporte aos Servidores e Empregados"
+  },
+  {
+    "id_acao": 32,
+    "nome_acao": "Auxílio-Alimentação aos Servidores e Empregados"
+  },
+  {
+    "id_acao": 33,
+    "nome_acao": "Gestão e Administração do Programa"
+  },
+  {
+    "id_acao": 34,
+    "nome_acao": "Funcionamento da Infra-Estrutura de Apoio às Atividades Espaciais"
+  },
+  {
+    "id_acao": 35,
+    "nome_acao": "Complementação da Infra-Estrutura Geral do Centro de Lançamento de Alcântara"
+  },
+  {
+    "id_acao": 36,
+    "nome_acao": "Desenvolvimento e Lançamento de Satélites Tecnológicos de Pequeno Porte"
+  },
+  {
+    "id_acao": 37,
+    "nome_acao": "Operação das Plataformas de Coleta de Dados"
+  },
+  {
+    "id_acao": 38,
+    "nome_acao": "Desenvolvimento e Lançamento de Satélites de Aplicação"
+  },
+  {
+    "id_acao": 39,
+    "nome_acao": "Desenvolvimento e Lançamento de Foguetes de Sondagem"
+  },
+  {
+    "id_acao": 40,
+    "nome_acao": "Contribuição da União, de suas Autarquias e Fundações para o Custeio do Regime de Previdência  dos Servidores Públicos Federais"
+  },
+  {
+    "id_acao": 41,
+    "nome_acao": "Funcionamento do Centro Regional de Educação em Ciência e Tecnologia Espaciais para a América Latina e Caribe"
+  },
+  {
+    "id_acao": 42,
+    "nome_acao": "Manutenção da Infra-estrutura de Apoio a Satélites"
+  },
+  {
+    "id_acao": 43,
+    "nome_acao": "Desenvolvimento de Experimentos e Equipamentos Embarcados"
+  },
+  {
+    "id_acao": 44,
+    "nome_acao": "Capacitação de Especialistas do Setor Espacial"
+  },
+  {
+    "id_acao": 45,
+    "nome_acao": "Participação Brasileira no Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS"
+  },
+  {
+    "id_acao": 46,
+    "nome_acao": "Participação Brasileira na Estação Espacial Internacional - ISS"
+  },
+  {
+    "id_acao": 47,
+    "nome_acao": "Pesquisa e Desenvolvimento em Tecnologias, Ciências e Aplicações Espaciais no Instituto Nacional de Pesquisas Espaciais"
+  },
+  {
+    "id_acao": 48,
+    "nome_acao": "Recepção de Imagens e Geração de Produtos de Satélites"
+  },
+  {
+    "id_acao": 49,
+    "nome_acao": "Desenvolvimento do Segmento de Aplicações do Satélite Sino-Brasileiro (CBERS)"
+  },
+  {
+    "id_acao": 50,
+    "nome_acao": "Desenvolvimento de Produtos e Processos Inovadores para o Setor Espacial"
+  },
+  {
+    "id_acao": 51,
+    "nome_acao": "Funcionamento do Centro Regional Sul de Pesquisas Espaciais"
+  },
+  {
+    "id_acao": 52,
+    "nome_acao": "Desenvolvimento e Lançamento de Satélites de Sensoriamento Remoto com Imageador Radar"
+  },
+  {
+    "id_acao": 53,
+    "nome_acao": "Pesquisa e Desenvolvimento em Tecnologias Associadas a Veículos Lançadores"
+  },
+  {
+    "id_acao": 54,
+    "nome_acao": "Implantação do Sistema de Metrologia, Normalização e Certificação para a Área Espacial"
+  },
+  {
+    "id_acao": 55,
+    "nome_acao": "Desenvolvimento de Satélites de Comunicação e Meteorologia"
+  },
+  {
+    "id_acao": 56,
+    "nome_acao": "Contribuição da União, de suas Autarquias e Fundações para o Custeio do Regime de Previdência dos Servidores Públicos Federais"
+  },
+  {
+    "id_acao": 57,
+    "nome_acao": "Funcionamento da Infra-Estrutura de Apoio a Satélites"
+  },
+  {
+    "id_acao": 58,
+    "nome_acao": "Desenvolvimento de Satélites Científicos"
+  },
+  {
+    "id_acao": 59,
+    "nome_acao": "Operação do Sistema de Coleta de Dados"
+  },
+  {
+    "id_acao": 60,
+    "nome_acao": "Desenvolvimento de Satélites de Sensoriamento Remoto com Imageador Óptico"
+  },
+  {
+    "id_acao": 61,
+    "nome_acao": "Desenvolvimento de Satélites de Sensoriamento Remoto com Imageador Radar"
+  },
+  {
+    "id_acao": 62,
+    "nome_acao": "Desenvolvimento de Satélites de Sensoriamento Remoto"
+  },
+  {
+    "id_acao": 63,
+    "nome_acao": "Implantação do Centro Espacial de Alcântara - CEA"
+  },
+  {
+    "id_acao": 64,
+    "nome_acao": "Pesquisa e Desenvolvimento em Tecnologias Associadas a Veículos Espaciais"
+  },
+  {
+    "id_acao": 65,
+    "nome_acao": "Desenvolvimento do Satélite Lattes"
+  },
+  {
+    "id_acao": 66,
+    "nome_acao": "Desenvolvimento do Satélite do Programa Internacional de Medidas de Precipitação - GPM-Br"
+  },
+  {
+    "id_acao": 67,
+    "nome_acao": "Desenvolvimento do Satélite de Sensoriamento Remoto com Imageador Radar - MAPSAR"
+  },
+  {
+    "id_acao": 68,
+    "nome_acao": "Desenvolvimento do Satélite Amazônia-1"
+  },
+  {
+    "id_acao": 69,
+    "nome_acao": "Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS-3"
+  },
+  {
+    "id_acao": 70,
+    "nome_acao": "Desenvolvimento do Satélite Sino-Brasileiro - Projeto CBERS-4"
+  },
+  {
+    "id_acao": 71,
+    "nome_acao": "Capacitação de Especialistas do Sistema Nacional de Desenvolvimento das Atividades Espaciais"
+  },
+  {
+    "id_acao": 72,
+    "nome_acao": "Estudos para a implantação do Centro Espacial de Alcântara - CEA"
+  },
+  {
+    "id_acao": 73,
+    "nome_acao": "Funcionamento e Atualização do Laboratório de Integração e Testes"
+  },
+  {
+    "id_acao": 74,
+    "nome_acao": "Pesquisa em Ciência Espacial"
+  },
+  {
+    "id_acao": 75,
+    "nome_acao": "Controle de Satélites, Recepção, Geração, Armazenamento e Distribuição de Dados"
+  },
+  {
+    "id_acao": 76,
+    "nome_acao": "Pesquisa e Aplicações de Dados de Satélites de Observação da Terra"
+  },
+  {
+    "id_acao": 77,
+    "nome_acao": "Assistência Médica aos Servidores e Empregados - Exames Periódicos"
+  },
+  {
+    "id_acao": 78,
+    "nome_acao": "Implantação do Complexo Espacial de Alcântara - CEA"
+  },
+  {
+    "id_acao": 79,
+    "nome_acao": "Implantação de Planetários e Laboratórios para Difusão da Cultura Espacial"
+  },
+  {
+    "id_acao": 80,
+    "nome_acao": "Funcionamento da Infraestrutura de Apoio às Atividades Espaciais"
+  },
+  {
+    "id_acao": 81,
+    "nome_acao": "Desenvolvimento do Satélite de Medida de Precipitação"
+  },
+  {
+    "id_acao": 82,
+    "nome_acao": "Desenvolvimento de Satélite Radar"
+  },
+  {
+    "id_acao": 83,
+    "nome_acao": "Desenvolvimento do Satélite Sabia-Mar"
+  },
+  {
+    "id_acao": 84,
+    "nome_acao": "Desenvolvimento de Competências e Capital Humano para o Setor Espacial"
+  },
+  {
+    "id_acao": 85,
+    "nome_acao": "Concepção e Análise de Viabilidade de Novas Missões Espaciais"
+  },
+  {
+    "id_acao": 86,
+    "nome_acao": "Pesquisa e Desenvolvimento no Sistema Científico Brasileiro de Previsão do Clima Espacial"
+  },
+  {
+    "id_acao": 87,
+    "nome_acao": "Desenvolvimento, Manutenção e Atualização da Infraestrutura Espacial"
+  },
+  {
+    "id_acao": 88,
+    "nome_acao": "Desenvolvimento e Lançamento de Foguetes Suborbitais e de Veículos Lançadores de Satélites"
+  },
+  {
+    "id_acao": 89,
+    "nome_acao": "Pesquisa e Desenvolvimento de Tecnologias para o Setor Espacial"
+  },
+  {
+    "id_acao": 90,
+    "nome_acao": "Desenvolvimento e Lançamento de Satélites"
+  },
+  {
+    "id_acao": 91,
+    "nome_acao": "Funcionamento e Atualização da Infraestrutura de Apoio a Veículos Espaciais"
+  },
+  {
+    "id_acao": 92,
+    "nome_acao": "Pesquisa e Desenvolvimento em Aeronomia, Astrofísica Instrumental e Geofísica Espacial"
+  },
+  {
+    "id_acao": 93,
+    "nome_acao": "Apoio a Projetos de Pesquisa e Desenvolvimento de Tecnologias Críticas para o Setor Espacial"
+  },
+  {
+    "id_acao": 94,
+    "nome_acao": "Pesquisa, Aplicações e Desenvolvimento Tecnológico com Dados de Satélites de Observação da Terra"
+  },
+  {
+    "id_acao": 95,
+    "nome_acao": "Desenvolvimento de Produtos e Processos para Componentes e Subsistemas de Satélites"
+  },
+  {
+    "id_acao": 96,
+    "nome_acao": "Desenvolvimento e Lançamento de Foguetes Suborbitais"
+  },
+  {
+    "id_acao": 97,
+    "nome_acao": "Contribuição da União para o Custeio do Regime de Previdência dos Servidores Públicos Federais"
+  },
+  {
+    "id_acao": 98,
+    "nome_acao": "Pagamento de Pessoal Ativo da União"
+  },
+  {
+    "id_acao": 99,
+    "nome_acao": "Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes"
+  },
+  {
+    "id_acao": 100,
+    "nome_acao": "Assistência Pré-Escolar aos Dependentes dos Servidores Civis, Empregados e Militares"
+  },
+  {
+    "id_acao": 101,
+    "nome_acao": "Auxílio-Transporte aos Servidores Civis, Empregados e Militares"
+  },
+  {
+    "id_acao": 102,
+    "nome_acao": "Auxílio-Alimentação aos Servidores Civis, Empregados e Militares"
+  },
+  {
+    "id_acao": 103,
+    "nome_acao": "Benefícios Assistenciais decorrentes do Auxílio-Funeral e Natalidade"
+  },
+  {
+    "id_acao": 104,
+    "nome_acao": "Contribuição à Federação Internacional de Astronáutica - FIA (MCTI)"
+  },
+  {
+    "id_acao": 105,
+    "nome_acao": "Implementação do Plano de Absorção e Transferência de Tecnologia no Âmbito do Satélite Geoestacionário de Defesa e Comunicações Estratégicas (SGDC)"
+  },
+  {
+    "id_acao": 106,
+    "nome_acao": "Aposentadorias e Pensões - Servidores Civis"
+  },
+  {
+    "id_acao": 107,
+    "nome_acao": "Desenvolvimento e Lançamento de Foguetes Suborbitais e de Veículos Lançadores de Satélites, com a Infraestrutura Associada"
+  },
+  {
+    "id_acao": 108,
+    "nome_acao": "Desenvolvimento, Lançamento e Operação de Satélites, com a Infraestutura Associada"
+  },
+  {
+    "id_acao": 109,
+    "nome_acao": "Pessoal Ativo da União"
+  },
+  {
+    "id_acao": 110,
+    "nome_acao": "Ajuda de Custo para Moradia ou Auxílio-Moradia a Agentes Públicos"
+  },
+  {
+    "id_acao": 111,
+    "nome_acao": "Contribuições a Organismos Internacionais sem Exigência de Programação Específica"
+  },
+  {
+    "id_acao": 112,
+    "nome_acao": "Desenvolvimento, Lançamento e Operação de Satélites, com a Infraestrutura Associada"
+  },
+  {
+    "id_acao": 113,
+    "nome_acao": "Implementação do Plano de Absorção e Transferência de Tecnologia no Âmbito do Satélite Geoestacionário de Defesa e Comunicações Estratégicas - SGDC"
+  },
+  {
+    "id_acao": 114,
+    "nome_acao": "Aposentadorias e Pensões Civis da União"
+  },
+  {
+    "id_acao": 115,
+    "nome_acao": "Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes"
+  },
+  {
+    "id_acao": 116,
+    "nome_acao": "Ativos Civis da União"
+  }
+]
